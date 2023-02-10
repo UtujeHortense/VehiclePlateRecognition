@@ -25,3 +25,7 @@ The final step is the validation of the pipeline. For this project the dataset i
 
 - Clone the repository
 - Use Matlab to run the livecript at the root
+
+# Project Report
+
+For more detailed information on the implementation, refer to the project report in the repository by the name of ANPR - Project Report.
